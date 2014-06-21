@@ -48,7 +48,7 @@ config = {
     // When running Ghost in the wild, use the production environment
     // Configure your URL and mail settings here
     production: {
-        url: 'http://gregtrowbridge.azurewebsites.net',
+        url: 'http://gregtrowbridge.com',
         mail: {},
         database: {
             client: 'sqlite3',
